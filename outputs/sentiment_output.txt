@@ -1,0 +1,38 @@
+
+Sentiment Analysis Output - Generated on 2024-08-13 09:43:41
+
+Summary:
+---------
+- Total tweets analyzed: 1000
+- Positive tweets: 530
+- Negative tweets: 470
+
+Sample Results:
+---------------
+1. Tweet ID: 1
+   Text: "The cat jumps over the fence."
+   Sentiment: Positive
+
+2. Tweet ID: 2
+   Text: "A developer codes a new app."
+   Sentiment: Positive
+
+3. Tweet ID: 3
+   Text: "An astronaut explores the moon."
+   Sentiment: Positive
+
+4. Tweet ID: 4
+   Text: "The artist paints a masterpiece."
+   Sentiment: Positive
+
+5. Tweet ID: 5
+   Text: "A teacher teaches students."
+   Sentiment: Positive
+
+6. Tweet ID: 6
+   Text: "The engineer builds a bridge."
+   Sentiment: Positive
+
+Conclusion:
+-----------
+The majority of the tweets analyzed show a positive sentiment.

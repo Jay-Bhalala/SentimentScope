@@ -1,0 +1,1001 @@
+tweet_id,created_at,location,device
+1,2024-08-09,Texas,iPhone
+2,2024-08-12,Florida,iPhone
+3,2024-08-11,New York,Android
+4,2024-08-09,Florida,Web
+5,2024-08-11,California,Android
+6,2024-08-12,California,Tablet
+7,2024-08-07,Florida,Android
+8,2024-08-05,Texas,iPhone
+9,2024-08-13,New York,iPhone
+10,2024-08-11,New York,Tablet
+11,2024-08-07,California,iPhone
+12,2024-08-09,New York,iPhone
+13,2024-08-07,Florida,Web
+14,2024-08-13,Illinois,Android
+15,2024-08-07,California,Android
+16,2024-08-03,New York,Tablet
+17,2024-08-13,New York,Web
+18,2024-08-07,California,iPhone
+19,2024-08-08,Illinois,iPhone
+20,2024-08-12,Texas,Tablet
+21,2024-08-02,Texas,Tablet
+22,2024-08-10,Illinois,Web
+23,2024-08-13,Florida,Tablet
+24,2024-08-10,California,Android
+25,2024-08-04,Florida,Tablet
+26,2024-08-05,Illinois,iPhone
+27,2024-08-02,Texas,iPhone
+28,2024-08-08,Illinois,Web
+29,2024-08-03,New York,iPhone
+30,2024-08-05,California,iPhone
+31,2024-08-08,Texas,iPhone
+32,2024-08-01,California,Tablet
+33,2024-08-11,Florida,Tablet
+34,2024-08-11,California,Android
+35,2024-08-08,Florida,Web
+36,2024-08-01,California,Tablet
+37,2024-08-03,Illinois,iPhone
+38,2024-08-12,Illinois,iPhone
+39,2024-08-02,Florida,iPhone
+40,2024-08-10,Texas,Web
+41,2024-08-03,California,Web
+42,2024-08-10,Florida,Tablet
+43,2024-08-13,California,Android
+44,2024-08-05,New York,Tablet
+45,2024-08-13,Illinois,iPhone
+46,2024-08-06,Texas,Web
+47,2024-08-04,New York,Web
+48,2024-08-07,Florida,Web
+49,2024-08-10,New York,Web
+50,2024-08-13,Illinois,iPhone
+51,2024-08-03,Florida,Web
+52,2024-08-04,California,Android
+53,2024-08-12,New York,Tablet
+54,2024-08-13,Texas,Web
+55,2024-08-13,New York,iPhone
+56,2024-08-03,Florida,iPhone
+57,2024-08-06,Florida,Tablet
+58,2024-08-04,California,Android
+59,2024-08-07,Texas,Android
+60,2024-08-11,Florida,Tablet
+61,2024-08-12,New York,Web
+62,2024-08-04,Illinois,Android
+63,2024-08-02,Illinois,Web
+64,2024-08-01,Illinois,iPhone
+65,2024-08-06,New York,Tablet
+66,2024-08-13,Florida,Web
+67,2024-08-11,Texas,Android
+68,2024-08-06,Florida,iPhone
+69,2024-08-07,Illinois,iPhone
+70,2024-08-07,Illinois,Android
+71,2024-08-07,Texas,Web
+72,2024-08-05,Florida,Android
+73,2024-08-13,Texas,Tablet
+74,2024-08-02,New York,Web
+75,2024-08-07,California,Tablet
+76,2024-08-06,Florida,Android
+77,2024-08-06,Illinois,Tablet
+78,2024-08-09,New York,Tablet
+79,2024-08-09,New York,iPhone
+80,2024-08-11,New York,Web
+81,2024-08-11,New York,Web
+82,2024-08-03,Illinois,Web
+83,2024-08-12,Illinois,Android
+84,2024-08-12,California,Android
+85,2024-08-13,Texas,Web
+86,2024-08-04,Texas,iPhone
+87,2024-08-11,Florida,Android
+88,2024-08-09,California,iPhone
+89,2024-08-02,Texas,Web
+90,2024-08-12,California,Tablet
+91,2024-08-11,Florida,Tablet
+92,2024-08-09,Florida,Tablet
+93,2024-08-09,New York,Android
+94,2024-08-10,Florida,iPhone
+95,2024-08-05,Illinois,Web
+96,2024-08-04,Florida,Web
+97,2024-08-02,New York,Tablet
+98,2024-08-01,Florida,Android
+99,2024-08-11,Illinois,iPhone
+100,2024-08-07,Illinois,Android
+101,2024-08-12,Illinois,iPhone
+102,2024-08-05,Texas,Tablet
+103,2024-08-04,California,Android
+104,2024-08-06,Illinois,Tablet
+105,2024-08-13,California,Android
+106,2024-08-03,Illinois,Android
+107,2024-08-02,Florida,iPhone
+108,2024-08-01,California,Tablet
+109,2024-08-05,Florida,Web
+110,2024-08-04,Florida,Tablet
+111,2024-08-04,California,Tablet
+112,2024-08-08,California,iPhone
+113,2024-08-13,New York,Android
+114,2024-08-07,New York,iPhone
+115,2024-08-08,Illinois,iPhone
+116,2024-08-05,Florida,Android
+117,2024-08-06,Texas,Tablet
+118,2024-08-02,New York,Tablet
+119,2024-08-04,California,Web
+120,2024-08-05,Florida,Web
+121,2024-08-12,Texas,Android
+122,2024-08-01,Texas,Android
+123,2024-08-03,Texas,Tablet
+124,2024-08-11,Illinois,iPhone
+125,2024-08-03,New York,iPhone
+126,2024-08-02,California,Tablet
+127,2024-08-03,New York,Web
+128,2024-08-05,California,iPhone
+129,2024-08-13,New York,Tablet
+130,2024-08-12,Illinois,Web
+131,2024-08-01,Illinois,Tablet
+132,2024-08-13,Texas,Web
+133,2024-08-09,New York,Android
+134,2024-08-06,New York,iPhone
+135,2024-08-07,Texas,Tablet
+136,2024-08-05,Illinois,Tablet
+137,2024-08-12,Texas,Android
+138,2024-08-09,New York,iPhone
+139,2024-08-03,Texas,iPhone
+140,2024-08-01,Illinois,iPhone
+141,2024-08-07,New York,iPhone
+142,2024-08-10,New York,Tablet
+143,2024-08-07,Texas,iPhone
+144,2024-08-07,Illinois,Tablet
+145,2024-08-11,Texas,Android
+146,2024-08-12,Texas,Tablet
+147,2024-08-06,Florida,Android
+148,2024-08-01,Illinois,iPhone
+149,2024-08-12,Florida,Android
+150,2024-08-05,Florida,Tablet
+151,2024-08-07,Florida,Tablet
+152,2024-08-06,Illinois,iPhone
+153,2024-08-12,Texas,Android
+154,2024-08-13,Florida,Web
+155,2024-08-11,New York,iPhone
+156,2024-08-12,California,iPhone
+157,2024-08-02,New York,iPhone
+158,2024-08-02,Texas,iPhone
+159,2024-08-02,California,iPhone
+160,2024-08-02,Texas,Android
+161,2024-08-07,New York,iPhone
+162,2024-08-11,Florida,Web
+163,2024-08-02,Florida,Web
+164,2024-08-03,California,Web
+165,2024-08-03,California,Tablet
+166,2024-08-10,Illinois,Web
+167,2024-08-12,Texas,Tablet
+168,2024-08-08,Florida,Web
+169,2024-08-11,Florida,iPhone
+170,2024-08-09,Illinois,Android
+171,2024-08-10,Texas,Android
+172,2024-08-09,Texas,Web
+173,2024-08-08,Illinois,iPhone
+174,2024-08-07,Florida,iPhone
+175,2024-08-10,California,Web
+176,2024-08-03,Texas,Web
+177,2024-08-12,New York,Web
+178,2024-08-12,Florida,iPhone
+179,2024-08-07,Illinois,Web
+180,2024-08-05,Florida,Tablet
+181,2024-08-11,Illinois,Tablet
+182,2024-08-02,Florida,Tablet
+183,2024-08-07,Illinois,Tablet
+184,2024-08-01,New York,iPhone
+185,2024-08-03,Florida,Tablet
+186,2024-08-09,New York,Web
+187,2024-08-04,Illinois,iPhone
+188,2024-08-09,New York,Tablet
+189,2024-08-01,New York,iPhone
+190,2024-08-13,Florida,iPhone
+191,2024-08-08,California,iPhone
+192,2024-08-03,Texas,Tablet
+193,2024-08-05,Illinois,iPhone
+194,2024-08-03,Texas,Tablet
+195,2024-08-07,Texas,Web
+196,2024-08-06,Florida,Web
+197,2024-08-10,California,iPhone
+198,2024-08-04,Illinois,Tablet
+199,2024-08-12,Illinois,Tablet
+200,2024-08-10,Texas,Web
+201,2024-08-12,New York,Web
+202,2024-08-06,Illinois,iPhone
+203,2024-08-03,Texas,Tablet
+204,2024-08-03,Florida,Android
+205,2024-08-06,Illinois,Web
+206,2024-08-08,Texas,Web
+207,2024-08-13,California,Android
+208,2024-08-12,Texas,Web
+209,2024-08-06,Illinois,iPhone
+210,2024-08-01,California,Android
+211,2024-08-01,Florida,Web
+212,2024-08-08,Illinois,Web
+213,2024-08-02,Florida,Web
+214,2024-08-11,New York,iPhone
+215,2024-08-08,New York,Web
+216,2024-08-03,Illinois,Android
+217,2024-08-10,California,iPhone
+218,2024-08-05,New York,Tablet
+219,2024-08-06,New York,Tablet
+220,2024-08-03,Illinois,Android
+221,2024-08-02,New York,iPhone
+222,2024-08-12,New York,Web
+223,2024-08-13,New York,Android
+224,2024-08-08,New York,iPhone
+225,2024-08-05,Illinois,iPhone
+226,2024-08-10,Texas,Android
+227,2024-08-05,Illinois,iPhone
+228,2024-08-09,Texas,Android
+229,2024-08-06,Florida,Web
+230,2024-08-11,New York,iPhone
+231,2024-08-08,California,Tablet
+232,2024-08-10,California,iPhone
+233,2024-08-02,Texas,Tablet
+234,2024-08-11,Florida,Tablet
+235,2024-08-01,Florida,iPhone
+236,2024-08-03,Florida,Android
+237,2024-08-13,Florida,Android
+238,2024-08-11,Illinois,Android
+239,2024-08-10,Texas,iPhone
+240,2024-08-05,New York,Web
+241,2024-08-03,Illinois,Web
+242,2024-08-10,Texas,iPhone
+243,2024-08-03,Texas,Web
+244,2024-08-08,Florida,Tablet
+245,2024-08-07,Florida,Android
+246,2024-08-04,Illinois,Web
+247,2024-08-05,Illinois,Android
+248,2024-08-03,Florida,iPhone
+249,2024-08-04,Texas,Web
+250,2024-08-10,New York,Tablet
+251,2024-08-12,Texas,Android
+252,2024-08-10,California,iPhone
+253,2024-08-11,New York,Web
+254,2024-08-08,Texas,Android
+255,2024-08-10,Texas,iPhone
+256,2024-08-04,Texas,Android
+257,2024-08-12,California,Tablet
+258,2024-08-05,Florida,Web
+259,2024-08-13,New York,Android
+260,2024-08-06,California,Android
+261,2024-08-10,Illinois,Web
+262,2024-08-09,Illinois,Tablet
+263,2024-08-09,Texas,Android
+264,2024-08-11,Texas,Android
+265,2024-08-10,Texas,Tablet
+266,2024-08-13,Florida,Web
+267,2024-08-04,New York,Android
+268,2024-08-04,Illinois,iPhone
+269,2024-08-05,California,Android
+270,2024-08-11,California,Android
+271,2024-08-11,Florida,iPhone
+272,2024-08-02,Illinois,Tablet
+273,2024-08-07,New York,Web
+274,2024-08-05,New York,Android
+275,2024-08-07,Florida,Web
+276,2024-08-06,New York,Android
+277,2024-08-13,California,Web
+278,2024-08-13,New York,Android
+279,2024-08-02,Illinois,Tablet
+280,2024-08-12,California,Web
+281,2024-08-04,Florida,Web
+282,2024-08-06,California,Android
+283,2024-08-02,Texas,Web
+284,2024-08-10,Texas,Web
+285,2024-08-13,Florida,Web
+286,2024-08-02,Texas,Android
+287,2024-08-09,Florida,Web
+288,2024-08-03,Texas,Tablet
+289,2024-08-11,Illinois,Android
+290,2024-08-12,Illinois,iPhone
+291,2024-08-01,Illinois,Web
+292,2024-08-07,Florida,Web
+293,2024-08-01,Florida,iPhone
+294,2024-08-02,Florida,iPhone
+295,2024-08-06,New York,Web
+296,2024-08-05,Illinois,Android
+297,2024-08-04,Florida,iPhone
+298,2024-08-05,Florida,iPhone
+299,2024-08-11,New York,Web
+300,2024-08-13,California,Android
+301,2024-08-12,Texas,Web
+302,2024-08-10,Illinois,iPhone
+303,2024-08-06,New York,Tablet
+304,2024-08-11,Illinois,Web
+305,2024-08-08,Illinois,Web
+306,2024-08-10,Illinois,Tablet
+307,2024-08-13,Illinois,Tablet
+308,2024-08-03,Florida,Web
+309,2024-08-08,California,iPhone
+310,2024-08-12,Texas,Android
+311,2024-08-02,New York,Web
+312,2024-08-01,New York,Android
+313,2024-08-06,New York,iPhone
+314,2024-08-06,New York,Android
+315,2024-08-12,Florida,Web
+316,2024-08-07,Texas,Android
+317,2024-08-09,New York,Android
+318,2024-08-01,New York,iPhone
+319,2024-08-10,Texas,Web
+320,2024-08-13,New York,Android
+321,2024-08-11,Texas,Tablet
+322,2024-08-09,New York,Tablet
+323,2024-08-03,Texas,Android
+324,2024-08-13,Texas,iPhone
+325,2024-08-08,Illinois,Web
+326,2024-08-11,Florida,Web
+327,2024-08-02,New York,iPhone
+328,2024-08-13,Illinois,Web
+329,2024-08-06,Florida,Android
+330,2024-08-07,Florida,iPhone
+331,2024-08-10,Florida,Web
+332,2024-08-03,Florida,Android
+333,2024-08-11,Florida,Tablet
+334,2024-08-01,California,Android
+335,2024-08-03,Texas,Tablet
+336,2024-08-11,California,Android
+337,2024-08-12,New York,iPhone
+338,2024-08-08,Illinois,iPhone
+339,2024-08-05,California,Tablet
+340,2024-08-12,New York,iPhone
+341,2024-08-09,California,Web
+342,2024-08-04,Texas,Tablet
+343,2024-08-06,New York,Tablet
+344,2024-08-10,Illinois,iPhone
+345,2024-08-04,Illinois,Web
+346,2024-08-07,Florida,Tablet
+347,2024-08-04,Florida,iPhone
+348,2024-08-12,Florida,Web
+349,2024-08-09,Illinois,Android
+350,2024-08-02,California,Android
+351,2024-08-05,New York,iPhone
+352,2024-08-09,Illinois,Android
+353,2024-08-06,Illinois,Web
+354,2024-08-04,Illinois,Android
+355,2024-08-09,Texas,Web
+356,2024-08-08,Florida,Tablet
+357,2024-08-03,Texas,iPhone
+358,2024-08-10,Illinois,Android
+359,2024-08-02,Florida,Tablet
+360,2024-08-07,Illinois,Tablet
+361,2024-08-07,New York,iPhone
+362,2024-08-04,Illinois,Tablet
+363,2024-08-09,Texas,Android
+364,2024-08-07,Texas,Web
+365,2024-08-05,New York,Web
+366,2024-08-03,Texas,Tablet
+367,2024-08-11,California,Android
+368,2024-08-04,Illinois,Tablet
+369,2024-08-01,Illinois,Web
+370,2024-08-06,Illinois,Tablet
+371,2024-08-04,Florida,Tablet
+372,2024-08-09,Florida,Web
+373,2024-08-05,California,Tablet
+374,2024-08-05,Texas,Tablet
+375,2024-08-02,Texas,Web
+376,2024-08-06,California,Tablet
+377,2024-08-08,New York,iPhone
+378,2024-08-13,Texas,iPhone
+379,2024-08-01,Florida,Web
+380,2024-08-07,California,Android
+381,2024-08-08,Illinois,Web
+382,2024-08-04,Illinois,Web
+383,2024-08-10,New York,Android
+384,2024-08-12,New York,Web
+385,2024-08-06,Illinois,Android
+386,2024-08-11,Texas,Android
+387,2024-08-13,Texas,iPhone
+388,2024-08-08,New York,iPhone
+389,2024-08-12,California,iPhone
+390,2024-08-07,Florida,iPhone
+391,2024-08-03,California,Android
+392,2024-08-03,Texas,Web
+393,2024-08-11,Texas,Web
+394,2024-08-12,California,Tablet
+395,2024-08-07,California,Android
+396,2024-08-07,Texas,Tablet
+397,2024-08-05,New York,Tablet
+398,2024-08-12,Florida,Web
+399,2024-08-09,California,Web
+400,2024-08-05,Illinois,Web
+401,2024-08-07,Texas,Android
+402,2024-08-05,California,iPhone
+403,2024-08-08,New York,Tablet
+404,2024-08-09,Florida,Tablet
+405,2024-08-04,Illinois,iPhone
+406,2024-08-01,Illinois,Tablet
+407,2024-08-04,New York,iPhone
+408,2024-08-04,Texas,Tablet
+409,2024-08-01,California,iPhone
+410,2024-08-08,Illinois,Tablet
+411,2024-08-02,Texas,iPhone
+412,2024-08-08,California,Android
+413,2024-08-12,California,iPhone
+414,2024-08-01,Illinois,Web
+415,2024-08-04,Florida,iPhone
+416,2024-08-06,New York,Tablet
+417,2024-08-04,Texas,Tablet
+418,2024-08-12,Texas,Android
+419,2024-08-02,Florida,Android
+420,2024-08-11,Illinois,iPhone
+421,2024-08-07,Illinois,Tablet
+422,2024-08-07,Illinois,Web
+423,2024-08-01,Illinois,Tablet
+424,2024-08-05,New York,Android
+425,2024-08-06,Illinois,iPhone
+426,2024-08-06,California,iPhone
+427,2024-08-07,Florida,Android
+428,2024-08-07,California,Tablet
+429,2024-08-13,Texas,Tablet
+430,2024-08-12,Florida,Android
+431,2024-08-10,Florida,iPhone
+432,2024-08-06,Florida,Web
+433,2024-08-09,Illinois,iPhone
+434,2024-08-11,Texas,Web
+435,2024-08-02,Texas,Web
+436,2024-08-13,Florida,Web
+437,2024-08-11,Illinois,Tablet
+438,2024-08-09,California,Tablet
+439,2024-08-09,Texas,Web
+440,2024-08-07,New York,Android
+441,2024-08-08,California,Web
+442,2024-08-04,New York,Tablet
+443,2024-08-08,New York,Web
+444,2024-08-03,Texas,Tablet
+445,2024-08-12,Illinois,Tablet
+446,2024-08-10,New York,Web
+447,2024-08-10,Texas,iPhone
+448,2024-08-06,New York,Android
+449,2024-08-09,Illinois,Tablet
+450,2024-08-06,Florida,Web
+451,2024-08-03,California,Web
+452,2024-08-05,Florida,iPhone
+453,2024-08-07,Florida,iPhone
+454,2024-08-11,Florida,iPhone
+455,2024-08-03,Illinois,Web
+456,2024-08-01,Texas,Web
+457,2024-08-01,California,Tablet
+458,2024-08-10,Florida,Tablet
+459,2024-08-10,Florida,iPhone
+460,2024-08-05,New York,Web
+461,2024-08-03,Texas,Android
+462,2024-08-06,Illinois,Android
+463,2024-08-13,New York,Web
+464,2024-08-02,New York,Tablet
+465,2024-08-05,Illinois,iPhone
+466,2024-08-07,New York,iPhone
+467,2024-08-11,Texas,Tablet
+468,2024-08-10,Florida,Tablet
+469,2024-08-05,Texas,Android
+470,2024-08-13,Florida,Android
+471,2024-08-03,California,Tablet
+472,2024-08-01,Florida,Web
+473,2024-08-01,Texas,iPhone
+474,2024-08-10,Florida,iPhone
+475,2024-08-07,Illinois,Android
+476,2024-08-11,Texas,Tablet
+477,2024-08-03,Florida,Web
+478,2024-08-13,Illinois,Android
+479,2024-08-01,Florida,Tablet
+480,2024-08-01,New York,Tablet
+481,2024-08-10,Illinois,iPhone
+482,2024-08-01,Texas,Android
+483,2024-08-07,Texas,Tablet
+484,2024-08-03,Illinois,iPhone
+485,2024-08-02,Florida,iPhone
+486,2024-08-10,California,Tablet
+487,2024-08-10,New York,Tablet
+488,2024-08-10,Illinois,Tablet
+489,2024-08-04,New York,Tablet
+490,2024-08-01,New York,Tablet
+491,2024-08-01,California,Web
+492,2024-08-02,California,Android
+493,2024-08-11,Florida,Web
+494,2024-08-03,New York,Android
+495,2024-08-03,California,Android
+496,2024-08-05,Texas,iPhone
+497,2024-08-07,New York,Tablet
+498,2024-08-12,Florida,Tablet
+499,2024-08-12,Florida,Tablet
+500,2024-08-07,New York,iPhone
+501,2024-08-10,Texas,Tablet
+502,2024-08-13,California,Web
+503,2024-08-06,Texas,Android
+504,2024-08-12,New York,iPhone
+505,2024-08-10,Florida,Web
+506,2024-08-06,New York,Android
+507,2024-08-08,California,Tablet
+508,2024-08-12,Florida,Tablet
+509,2024-08-05,Illinois,Tablet
+510,2024-08-10,California,iPhone
+511,2024-08-01,Florida,Web
+512,2024-08-07,California,iPhone
+513,2024-08-06,New York,Web
+514,2024-08-09,New York,Web
+515,2024-08-12,California,iPhone
+516,2024-08-08,Texas,Web
+517,2024-08-01,New York,Tablet
+518,2024-08-07,California,iPhone
+519,2024-08-07,California,Web
+520,2024-08-12,Florida,Web
+521,2024-08-05,Florida,Android
+522,2024-08-13,New York,iPhone
+523,2024-08-03,Texas,Tablet
+524,2024-08-06,Florida,Android
+525,2024-08-06,California,Android
+526,2024-08-06,Florida,iPhone
+527,2024-08-06,California,Web
+528,2024-08-13,Florida,iPhone
+529,2024-08-04,Florida,Tablet
+530,2024-08-04,California,iPhone
+531,2024-08-04,Texas,Web
+532,2024-08-01,New York,Tablet
+533,2024-08-01,California,iPhone
+534,2024-08-03,Texas,Tablet
+535,2024-08-06,New York,Web
+536,2024-08-04,Illinois,Android
+537,2024-08-13,Texas,Web
+538,2024-08-10,Texas,Web
+539,2024-08-02,California,Web
+540,2024-08-01,Florida,iPhone
+541,2024-08-06,California,iPhone
+542,2024-08-10,Illinois,iPhone
+543,2024-08-07,California,Tablet
+544,2024-08-05,Texas,Android
+545,2024-08-02,Florida,Web
+546,2024-08-07,New York,Android
+547,2024-08-05,Florida,iPhone
+548,2024-08-04,Illinois,Tablet
+549,2024-08-12,Texas,Web
+550,2024-08-01,New York,iPhone
+551,2024-08-08,California,Android
+552,2024-08-08,New York,iPhone
+553,2024-08-05,Illinois,Tablet
+554,2024-08-05,California,Android
+555,2024-08-06,California,Web
+556,2024-08-07,Illinois,Android
+557,2024-08-04,Florida,iPhone
+558,2024-08-09,Texas,Tablet
+559,2024-08-08,Florida,Android
+560,2024-08-10,Texas,Web
+561,2024-08-13,Illinois,iPhone
+562,2024-08-06,Illinois,Android
+563,2024-08-07,Texas,Android
+564,2024-08-02,California,Android
+565,2024-08-04,California,Android
+566,2024-08-08,Illinois,Web
+567,2024-08-07,New York,iPhone
+568,2024-08-07,Illinois,iPhone
+569,2024-08-10,New York,Tablet
+570,2024-08-03,Texas,Android
+571,2024-08-11,Texas,iPhone
+572,2024-08-08,New York,Web
+573,2024-08-02,California,Web
+574,2024-08-11,Illinois,Web
+575,2024-08-07,New York,iPhone
+576,2024-08-11,Illinois,Android
+577,2024-08-03,Illinois,Web
+578,2024-08-11,California,Web
+579,2024-08-01,Florida,Web
+580,2024-08-06,California,iPhone
+581,2024-08-08,California,iPhone
+582,2024-08-03,California,Android
+583,2024-08-06,California,Web
+584,2024-08-12,Florida,Android
+585,2024-08-04,Texas,Tablet
+586,2024-08-12,New York,Web
+587,2024-08-07,New York,Android
+588,2024-08-06,Illinois,iPhone
+589,2024-08-12,Florida,Web
+590,2024-08-09,New York,Web
+591,2024-08-11,Illinois,Web
+592,2024-08-11,Illinois,Tablet
+593,2024-08-05,New York,iPhone
+594,2024-08-10,Illinois,Tablet
+595,2024-08-03,California,iPhone
+596,2024-08-05,Illinois,Web
+597,2024-08-08,New York,iPhone
+598,2024-08-05,New York,iPhone
+599,2024-08-01,New York,Android
+600,2024-08-08,New York,Tablet
+601,2024-08-07,Illinois,Web
+602,2024-08-01,California,Tablet
+603,2024-08-01,Florida,Tablet
+604,2024-08-10,Florida,Web
+605,2024-08-12,Texas,iPhone
+606,2024-08-08,Illinois,Web
+607,2024-08-11,California,Web
+608,2024-08-08,Texas,Android
+609,2024-08-06,New York,Android
+610,2024-08-05,Texas,Tablet
+611,2024-08-04,Florida,iPhone
+612,2024-08-05,Florida,iPhone
+613,2024-08-07,California,iPhone
+614,2024-08-02,California,Android
+615,2024-08-02,Illinois,Tablet
+616,2024-08-08,Texas,Android
+617,2024-08-06,California,Tablet
+618,2024-08-06,Florida,Web
+619,2024-08-12,California,iPhone
+620,2024-08-10,Illinois,Android
+621,2024-08-02,California,Tablet
+622,2024-08-06,Florida,iPhone
+623,2024-08-10,Illinois,Web
+624,2024-08-05,New York,Tablet
+625,2024-08-06,Florida,Web
+626,2024-08-03,Illinois,Web
+627,2024-08-04,Illinois,Tablet
+628,2024-08-12,California,Android
+629,2024-08-04,California,Tablet
+630,2024-08-07,California,Android
+631,2024-08-01,New York,Web
+632,2024-08-03,California,Android
+633,2024-08-09,Florida,Android
+634,2024-08-03,Illinois,Web
+635,2024-08-08,Illinois,iPhone
+636,2024-08-01,Texas,Tablet
+637,2024-08-12,New York,iPhone
+638,2024-08-07,Texas,Web
+639,2024-08-10,Florida,Web
+640,2024-08-06,Illinois,Tablet
+641,2024-08-05,New York,Android
+642,2024-08-07,New York,iPhone
+643,2024-08-12,California,Android
+644,2024-08-10,Texas,Android
+645,2024-08-02,California,Tablet
+646,2024-08-07,Florida,Android
+647,2024-08-06,Texas,Android
+648,2024-08-08,New York,Web
+649,2024-08-03,Texas,Web
+650,2024-08-13,California,Web
+651,2024-08-05,New York,Android
+652,2024-08-01,New York,iPhone
+653,2024-08-12,Texas,Tablet
+654,2024-08-01,California,Tablet
+655,2024-08-07,Florida,Tablet
+656,2024-08-06,Texas,Android
+657,2024-08-13,California,Tablet
+658,2024-08-01,Florida,Android
+659,2024-08-04,Texas,Android
+660,2024-08-01,Illinois,Web
+661,2024-08-09,Florida,Tablet
+662,2024-08-05,Texas,Web
+663,2024-08-11,California,Android
+664,2024-08-07,Florida,Tablet
+665,2024-08-02,Florida,Web
+666,2024-08-11,New York,Android
+667,2024-08-02,Illinois,Android
+668,2024-08-01,California,Android
+669,2024-08-02,Florida,Android
+670,2024-08-13,California,Android
+671,2024-08-12,New York,Android
+672,2024-08-08,Florida,Tablet
+673,2024-08-06,Florida,Tablet
+674,2024-08-13,Florida,Android
+675,2024-08-12,Texas,Web
+676,2024-08-06,California,Tablet
+677,2024-08-11,Texas,Web
+678,2024-08-02,Florida,Android
+679,2024-08-08,New York,Web
+680,2024-08-08,Texas,iPhone
+681,2024-08-13,New York,Tablet
+682,2024-08-06,Illinois,iPhone
+683,2024-08-06,Texas,Web
+684,2024-08-03,Texas,Android
+685,2024-08-04,New York,iPhone
+686,2024-08-12,Florida,Web
+687,2024-08-10,Texas,iPhone
+688,2024-08-05,Illinois,Web
+689,2024-08-03,Texas,Android
+690,2024-08-02,Florida,Android
+691,2024-08-04,Illinois,Tablet
+692,2024-08-04,Illinois,Web
+693,2024-08-09,Florida,Web
+694,2024-08-05,Florida,Tablet
+695,2024-08-13,California,Tablet
+696,2024-08-05,New York,iPhone
+697,2024-08-03,Florida,iPhone
+698,2024-08-02,New York,Web
+699,2024-08-13,Texas,Web
+700,2024-08-12,Illinois,iPhone
+701,2024-08-09,Florida,iPhone
+702,2024-08-09,New York,Tablet
+703,2024-08-11,Illinois,iPhone
+704,2024-08-10,Texas,Android
+705,2024-08-12,California,Android
+706,2024-08-06,Illinois,iPhone
+707,2024-08-09,California,Tablet
+708,2024-08-01,Florida,Web
+709,2024-08-07,Florida,Web
+710,2024-08-13,New York,Web
+711,2024-08-10,New York,Android
+712,2024-08-04,California,Web
+713,2024-08-09,California,Web
+714,2024-08-07,New York,Tablet
+715,2024-08-02,Illinois,Web
+716,2024-08-10,New York,Android
+717,2024-08-11,California,iPhone
+718,2024-08-13,Florida,Android
+719,2024-08-05,Florida,Android
+720,2024-08-08,Illinois,Web
+721,2024-08-02,New York,Web
+722,2024-08-11,California,iPhone
+723,2024-08-08,Illinois,Web
+724,2024-08-07,Florida,iPhone
+725,2024-08-09,Florida,Android
+726,2024-08-12,Florida,Tablet
+727,2024-08-01,New York,Web
+728,2024-08-04,New York,Tablet
+729,2024-08-07,Texas,iPhone
+730,2024-08-06,Texas,Web
+731,2024-08-10,California,Android
+732,2024-08-01,New York,iPhone
+733,2024-08-10,California,Tablet
+734,2024-08-06,Illinois,iPhone
+735,2024-08-04,Texas,Android
+736,2024-08-09,California,Android
+737,2024-08-07,California,Tablet
+738,2024-08-09,Texas,Web
+739,2024-08-05,California,Tablet
+740,2024-08-13,New York,Tablet
+741,2024-08-13,Texas,Android
+742,2024-08-13,California,Web
+743,2024-08-03,New York,Web
+744,2024-08-05,California,Web
+745,2024-08-08,New York,Tablet
+746,2024-08-07,Illinois,Android
+747,2024-08-11,Florida,iPhone
+748,2024-08-01,Florida,Web
+749,2024-08-08,Texas,iPhone
+750,2024-08-01,California,Web
+751,2024-08-01,Texas,Tablet
+752,2024-08-04,Illinois,iPhone
+753,2024-08-03,Florida,Web
+754,2024-08-11,Texas,Tablet
+755,2024-08-07,New York,Android
+756,2024-08-13,Florida,Android
+757,2024-08-10,California,Android
+758,2024-08-05,Texas,Tablet
+759,2024-08-06,New York,Tablet
+760,2024-08-07,New York,Tablet
+761,2024-08-10,Illinois,iPhone
+762,2024-08-11,California,iPhone
+763,2024-08-04,California,iPhone
+764,2024-08-04,Florida,iPhone
+765,2024-08-10,New York,Tablet
+766,2024-08-11,Texas,Web
+767,2024-08-02,California,Web
+768,2024-08-08,California,Android
+769,2024-08-07,New York,Android
+770,2024-08-05,New York,Tablet
+771,2024-08-12,Florida,Web
+772,2024-08-12,California,Android
+773,2024-08-03,Illinois,Android
+774,2024-08-12,Florida,Tablet
+775,2024-08-06,Illinois,Tablet
+776,2024-08-03,California,Tablet
+777,2024-08-13,California,Web
+778,2024-08-09,Texas,Tablet
+779,2024-08-13,California,iPhone
+780,2024-08-01,Florida,iPhone
+781,2024-08-12,Florida,Android
+782,2024-08-03,Florida,iPhone
+783,2024-08-13,California,Tablet
+784,2024-08-13,Illinois,Android
+785,2024-08-05,New York,Android
+786,2024-08-07,New York,Tablet
+787,2024-08-11,Texas,Android
+788,2024-08-03,California,Tablet
+789,2024-08-07,Florida,iPhone
+790,2024-08-03,Texas,Web
+791,2024-08-03,Illinois,Android
+792,2024-08-03,Texas,Web
+793,2024-08-08,New York,Tablet
+794,2024-08-10,Texas,iPhone
+795,2024-08-01,California,Web
+796,2024-08-07,Texas,Web
+797,2024-08-04,New York,Android
+798,2024-08-03,Florida,Android
+799,2024-08-08,New York,iPhone
+800,2024-08-07,New York,iPhone
+801,2024-08-04,California,iPhone
+802,2024-08-07,New York,Tablet
+803,2024-08-11,Illinois,Web
+804,2024-08-06,New York,Web
+805,2024-08-01,Texas,Web
+806,2024-08-12,New York,Web
+807,2024-08-08,Florida,Web
+808,2024-08-09,Florida,Tablet
+809,2024-08-02,Texas,Web
+810,2024-08-01,Texas,Tablet
+811,2024-08-06,Illinois,Web
+812,2024-08-13,Illinois,iPhone
+813,2024-08-06,Florida,Tablet
+814,2024-08-05,New York,Web
+815,2024-08-01,Illinois,Android
+816,2024-08-06,New York,iPhone
+817,2024-08-09,Florida,Web
+818,2024-08-06,Florida,Web
+819,2024-08-13,Florida,iPhone
+820,2024-08-06,Texas,iPhone
+821,2024-08-11,Florida,iPhone
+822,2024-08-11,Texas,Tablet
+823,2024-08-02,New York,Web
+824,2024-08-06,Florida,iPhone
+825,2024-08-09,California,Web
+826,2024-08-02,Texas,Tablet
+827,2024-08-09,Illinois,Web
+828,2024-08-08,Texas,iPhone
+829,2024-08-03,Illinois,Android
+830,2024-08-07,New York,iPhone
+831,2024-08-08,Illinois,Android
+832,2024-08-03,Illinois,Tablet
+833,2024-08-09,California,iPhone
+834,2024-08-04,Illinois,Android
+835,2024-08-13,Florida,Web
+836,2024-08-12,New York,Web
+837,2024-08-12,Texas,iPhone
+838,2024-08-07,Illinois,Web
+839,2024-08-08,New York,Tablet
+840,2024-08-11,California,iPhone
+841,2024-08-09,Illinois,iPhone
+842,2024-08-08,Illinois,iPhone
+843,2024-08-05,Texas,Tablet
+844,2024-08-05,New York,Web
+845,2024-08-04,Illinois,iPhone
+846,2024-08-04,Texas,iPhone
+847,2024-08-10,Illinois,Tablet
+848,2024-08-03,California,Tablet
+849,2024-08-08,New York,Web
+850,2024-08-13,California,iPhone
+851,2024-08-08,New York,iPhone
+852,2024-08-07,Florida,iPhone
+853,2024-08-01,New York,Android
+854,2024-08-12,Florida,Tablet
+855,2024-08-04,Florida,Web
+856,2024-08-09,Illinois,Android
+857,2024-08-13,California,Web
+858,2024-08-08,California,Android
+859,2024-08-07,Texas,Web
+860,2024-08-09,New York,iPhone
+861,2024-08-12,New York,iPhone
+862,2024-08-01,Florida,Tablet
+863,2024-08-01,California,Android
+864,2024-08-03,Florida,Web
+865,2024-08-06,New York,Tablet
+866,2024-08-02,Illinois,Android
+867,2024-08-01,Texas,Tablet
+868,2024-08-08,Texas,Web
+869,2024-08-03,Florida,Android
+870,2024-08-03,Texas,Tablet
+871,2024-08-02,Illinois,iPhone
+872,2024-08-05,Illinois,Tablet
+873,2024-08-06,Florida,iPhone
+874,2024-08-09,Illinois,iPhone
+875,2024-08-04,California,Android
+876,2024-08-13,New York,Tablet
+877,2024-08-07,Illinois,Web
+878,2024-08-06,Florida,Tablet
+879,2024-08-03,California,Android
+880,2024-08-12,Illinois,Tablet
+881,2024-08-09,Florida,Tablet
+882,2024-08-06,Illinois,iPhone
+883,2024-08-11,Texas,Tablet
+884,2024-08-02,Texas,Web
+885,2024-08-08,Illinois,Tablet
+886,2024-08-11,Florida,Web
+887,2024-08-01,New York,Web
+888,2024-08-05,California,iPhone
+889,2024-08-06,Illinois,Tablet
+890,2024-08-13,Florida,Web
+891,2024-08-11,Illinois,Web
+892,2024-08-11,New York,Android
+893,2024-08-01,New York,Tablet
+894,2024-08-11,Texas,Android
+895,2024-08-06,Florida,iPhone
+896,2024-08-10,New York,Web
+897,2024-08-08,California,Tablet
+898,2024-08-06,Texas,Web
+899,2024-08-10,New York,Web
+900,2024-08-05,New York,iPhone
+901,2024-08-13,Florida,Android
+902,2024-08-08,New York,Web
+903,2024-08-10,Texas,iPhone
+904,2024-08-10,California,Web
+905,2024-08-07,New York,Android
+906,2024-08-13,New York,Tablet
+907,2024-08-05,California,Web
+908,2024-08-11,Texas,Android
+909,2024-08-03,Illinois,iPhone
+910,2024-08-03,New York,iPhone
+911,2024-08-11,Illinois,iPhone
+912,2024-08-04,New York,Tablet
+913,2024-08-12,Texas,Web
+914,2024-08-02,Illinois,Web
+915,2024-08-04,California,iPhone
+916,2024-08-13,Florida,Web
+917,2024-08-10,California,iPhone
+918,2024-08-13,Texas,Android
+919,2024-08-01,California,Web
+920,2024-08-08,Texas,iPhone
+921,2024-08-11,California,iPhone
+922,2024-08-04,Illinois,Tablet
+923,2024-08-05,New York,Android
+924,2024-08-09,New York,Tablet
+925,2024-08-04,Illinois,Tablet
+926,2024-08-09,California,iPhone
+927,2024-08-02,Texas,iPhone
+928,2024-08-01,New York,iPhone
+929,2024-08-05,California,Tablet
+930,2024-08-13,New York,Tablet
+931,2024-08-09,California,iPhone
+932,2024-08-13,Florida,iPhone
+933,2024-08-13,Texas,Web
+934,2024-08-10,New York,Web
+935,2024-08-09,California,Web
+936,2024-08-07,Illinois,Web
+937,2024-08-11,Florida,Web
+938,2024-08-10,Florida,Web
+939,2024-08-10,Texas,Android
+940,2024-08-12,Texas,Web
+941,2024-08-07,New York,Android
+942,2024-08-07,Illinois,Android
+943,2024-08-10,New York,iPhone
+944,2024-08-06,Texas,iPhone
+945,2024-08-06,New York,Web
+946,2024-08-10,Florida,iPhone
+947,2024-08-08,New York,iPhone
+948,2024-08-11,California,Tablet
+949,2024-08-04,New York,Tablet
+950,2024-08-03,Illinois,Tablet
+951,2024-08-12,New York,Tablet
+952,2024-08-11,New York,Android
+953,2024-08-08,Florida,Tablet
+954,2024-08-12,Florida,Android
+955,2024-08-11,Florida,Tablet
+956,2024-08-03,Texas,Tablet
+957,2024-08-07,California,Web
+958,2024-08-02,California,Tablet
+959,2024-08-01,Illinois,Web
+960,2024-08-02,Texas,iPhone
+961,2024-08-10,Texas,Web
+962,2024-08-11,California,Android
+963,2024-08-12,New York,iPhone
+964,2024-08-08,California,Web
+965,2024-08-07,New York,Web
+966,2024-08-13,New York,Android
+967,2024-08-07,Florida,Android
+968,2024-08-08,Texas,Android
+969,2024-08-02,New York,Web
+970,2024-08-03,Illinois,Tablet
+971,2024-08-11,Texas,Web
+972,2024-08-08,Florida,Android
+973,2024-08-11,Florida,Tablet
+974,2024-08-11,Florida,iPhone
+975,2024-08-04,California,Android
+976,2024-08-01,Texas,Tablet
+977,2024-08-13,Texas,Web
+978,2024-08-10,Illinois,Android
+979,2024-08-02,Illinois,Web
+980,2024-08-07,Florida,Web
+981,2024-08-09,New York,Android
+982,2024-08-03,Illinois,iPhone
+983,2024-08-01,New York,Tablet
+984,2024-08-12,Texas,Web
+985,2024-08-12,Florida,Web
+986,2024-08-07,New York,Tablet
+987,2024-08-11,Florida,Web
+988,2024-08-10,New York,iPhone
+989,2024-08-13,Florida,iPhone
+990,2024-08-08,Illinois,Web
+991,2024-08-07,Florida,Tablet
+992,2024-08-05,California,Android
+993,2024-08-05,Illinois,Android
+994,2024-08-01,New York,Tablet
+995,2024-08-05,Illinois,iPhone
+996,2024-08-12,New York,Tablet
+997,2024-08-02,New York,Tablet
+998,2024-08-09,Florida,Tablet
+999,2024-08-04,California,Web
+1000,2024-08-02,Illinois,Tablet

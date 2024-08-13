@@ -1,0 +1,14 @@
+{
+    "num_samples": 1000000,
+    "label_distribution": {
+        "positive": 400000,
+        "negative": 300000,
+        "neutral": 300000
+    },
+    "feature_description": "TF-IDF vectors with 5000 features",
+    "processing_log": [
+        "Removed stopwords",
+        "Tokenized text",
+        "Applied lemmatization"
+    ]
+}
