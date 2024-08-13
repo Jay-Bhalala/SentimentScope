@@ -27,7 +27,7 @@ Follow these steps to set up your local development environment:
 
 ### Configuration
 
-Configure the necessary API keys for accessing Twitter data in `src/config.py`:
+Configure the necessary API keys for accessing Twitter data in `src/config.py` (or create a .env file and upload your variables there as already done in the code):
 
 ```python
 API_KEY = 'YOUR_API_KEY'
